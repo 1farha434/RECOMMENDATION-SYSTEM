@@ -33,5 +33,5 @@ Music apps (Spotify, Gaana) – Suggests songs based on listening patterns and p
 Social media (Instagram, Facebook, TikTok) – Recommends posts, reels, and friends.
 Online learning platforms (Coursera, Udemy) – Suggests courses based on user interests.
 Food delivery apps (Zomato, Swiggy) – Recommends restaurants and dishes based on previous orders.
-**OUTPUT**
+
 
